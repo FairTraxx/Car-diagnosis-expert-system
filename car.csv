@@ -1,0 +1,14 @@
+﻿Symptom 1,symptom 2,symptom 3,car_problem
+The engine turns over slowly,The headlights go out as the engine was cranking,There is a cruddy-like substance on the terminals,Flow of electrical current to starter interfered
+The engine turns over slowly,The headlights go out as the engine was cranking,There is no cruddy-like substance on the terminals,Weak battery
+The engine turns over slowly,The headlights did not go out as the engine was cranking,There is grinding or growling sound,Bad starter
+The engine turns over slowly,The headlights did not go out as the engine was cranking,There is no grinding or growling sound,Frozen battery
+The engine turns over,There is white smoke coming from the exhaust while driving,There is no grinding or growling sound,Condensation in steaming off
+The engine turns over,There is white smoke coming from the exhaust while driving,The engine has warmed up,blown head gasket
+The engine turns over,There is black smoke coming from the exhaust while driving,There is dirt on the air filter,clogged air filter
+The engine turns over,There is black smoke coming from the exhaust while driving,There is no dirt on the air filter,bad fuel injection sensor
+The engine turns over,There is blue smoke coming from the exhaust always,The engine has less power than it used to be when going up hills,bad rings
+The engine turns over,There is blue smoke coming from the exhaust while accelerating,,bad valve stem seals
+The engine turns over,There is blue smoke coming from the exhaust always,"
+The engine power is as it used to be",leaking turbocharger seals
+The engine turns over,Loss of engine power occurs suddenly,Fuel injectors are clogged,fuel injection system
